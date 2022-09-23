@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Stack data type implementation in Typescript",
   "main": "stack.ts",
+  "private": true,
   "scripts": {
     "test": "vitest"
   },
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "git@github.com:suchy/stack.git"
   },
   "author": "Mateusz Suchoń <kontakt@suchego.pl>",
   "license": "ISC",
